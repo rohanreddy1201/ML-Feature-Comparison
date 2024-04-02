@@ -31,7 +31,7 @@ It consists of two CSV files: mnist_train.csv (60,000 images) and mnist_test.csv
 # Usage:
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the script `mnist_feature_comparison.py` to train the models and evaluate their performance.
+3. Run the script `ML_Feature_Comparison.py` to train the models and evaluate their performance.
 4. View the results in the console and visualizations in separate windows.
 
 # Disclaimer:
